@@ -30,3 +30,12 @@ hi, i'm [Santript Mehta](https://www.santriptmehta.xyz/), a passionate self-taug
 <code><img height="20" src="https://raw.githubusercontent.com/santriptmehta/santriptmehta/main/assets/Component%207%20%E2%80%93%201.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/santriptmehta/santriptmehta/main/assets/Component%206%20%E2%80%93%201.png"></code>
 
+
+
+
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=santriptmehta&show_icons=true&theme=gotham" alt="santriptmehta" />
+
