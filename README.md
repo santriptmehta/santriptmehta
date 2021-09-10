@@ -34,7 +34,10 @@ hi, i'm [Santript Mehta](https://www.santriptmehta.xyz/), a passionate self-taug
 
 
 
-
+</br>
+</br>
+</br>
+</br>
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=santriptmehta&show_icons=true&theme=gotham" alt="santriptmehta" />
