@@ -8,6 +8,8 @@
 </a>
 
 <br />
+<br />
+<br />
 
 hi, i'm [Santript Mehta](https://www.santriptmehta.xyz/), a passionate self-taught programmer, tech enthusistic student and I love to explore about new in technologies. I am currently pursuing B.Tech in Computer Science From Cochin University of Science and Technology. Being as a student I am always love to know about new and fascinating in technology. I also love to read novel, Articles and to play Badminton.
 
