@@ -15,7 +15,7 @@ Hii, i'm [Santript Mehta😎](https://www.santriptmehta.xyz/), a passionate self
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/santriptmehta/santriptmehta/main/tenor.gif" width="500" height="320" />
 
-**languages and tools:**  
+**languages and tools:**  🥺👉👈
 
 <code><img height="20" src="https://raw.githubusercontent.com/santriptmehta/santriptmehta/main/assets/Android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/santriptmehta/santriptmehta/main/assets/Component%201%20%E2%80%93%201.png"></code>
