@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hii, i'm [Santript Mehta😎](https://www.santriptmehta.xyz/), a passionate self-taught programmer, tech enthusistic student and I love to explore about new in technologies. I am currently pursuing B.Tech in Computer Science From Cochin University of Science and Technology. Being as a student I am always love to know about new and fascinating in technology. I also love to read novel, Articles and to play Badminton.
+Hii, i'm [Santript Mehta😎](https://www.santriptmehta.xyz/), a passionate self-taught programmer, tech enthusistic student and I love to explore about new in technologies. I am currently pursuing B.Tech in Computer Science From Cochin University of Science and Technology. Being a student I always love to know about new and fascinating technology. I also love to read novels, Articles and to play Badminton.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/santriptmehta/santriptmehta/main/tenor.gif" width="500" height="320" />
 
