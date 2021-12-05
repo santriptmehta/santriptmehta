@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72525&size=21&lines=Hey+there+!!;I'm+Santript+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72525&size=21&lines=Hey+there+!!;)](https://git.io/typing-svg)
 ### Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Connect with me.👇
 
 <a href="https://twitter.com/santriptmehta">
