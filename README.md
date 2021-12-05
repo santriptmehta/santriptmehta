@@ -1,6 +1,5 @@
 ### Hey there !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Hey there !!](https://readme-typing-svg.herokuapp.com/?lines=Hey+there+!!;I'm+Santript+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there+!!;I'm+Santript+%F0%9F%91%8B)](https://git.io/typing-svg)
 <a href="https://twitter.com/santriptmehta">
   <img align="left" alt="Santript Mehta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
