@@ -41,5 +41,7 @@ Hii, i'm [Santript Mehta😎](https://www.santriptmehta.xyz/), a passionate self
 </br>
 
 📈 My github stats
+</br>
+</br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=santriptmehta&show_icons=true&theme=gotham" alt="santriptmehta" />
 
