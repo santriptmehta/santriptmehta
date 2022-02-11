@@ -12,9 +12,9 @@
 <br />
 <br />
 <br />
-<h2 align="center">
+<p align="center">
 Junior at CUSAT, Kochi Pursuing Bachelor's in CSE, a passionate self-taught programmer, tech enthusiast and I love to explore new technologies. Being a student,I always love to learn about new and fascinating technology. I also love to read novels, articles and to play Badminton.
-</h2> 
+</p> 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/santriptmehta/santriptmehta/main/tenor.gif" width="500" height="320" />
 <br/>
