@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72525&size=21&lines=Hey+there+!!;)](https://git.io/typing-svg)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72525&size=21&lines=Hey+there+!!;)](https://git.io/typing-svg)
 ### Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Connect with me.👇
-
+</h1>
 <a href="https://twitter.com/santriptmehta">
   <img align="left" alt="Santript Mehta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
