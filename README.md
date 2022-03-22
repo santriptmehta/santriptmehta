@@ -7,6 +7,7 @@
 </a>
 <a href="https://www.linkedin.com/in/santriptmehta/">
   <img align="left" alt="Santript's LinkedIN" width="22px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="440px"> <br>
 </a>
 
 <br />
