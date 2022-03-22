@@ -18,7 +18,7 @@ Junior at CUSAT, Kochi Pursuing Bachelor's in CSE, a passionate self-taught prog
 </p> 
 
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="440px"> <br>
+<img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="440px"> <br>
 <br/>
 
 **languages and tools:**  🥺👉👈
