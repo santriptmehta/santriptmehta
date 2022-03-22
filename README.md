@@ -6,7 +6,7 @@
   <img align="left" alt="Santript Mehta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/santriptmehta/">
-  <img align="left" alt="Santript's LinkedIN" width="22px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  <img align="left" alt="Santript's LinkedIN" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
          
 </a>
 
