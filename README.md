@@ -18,7 +18,7 @@
 <p align="center">
   <em>
     Junior at CUSAT, Kochi Pursuing Bachelor's in CSE, a passionate self-taught programmer, tech enthusiast and I love to explore new technologies. Being a student,I always love to learn about new and fascinating technology. I also love to read novels, articles and to play Badminton. <br>
-     <b>Learner | Reader | Coder | Aspiring Web-Developer | UI/UX designer </b> <br>
+      <br>
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="440px"> <br>
    
     
