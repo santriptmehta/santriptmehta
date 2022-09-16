@@ -1,7 +1,7 @@
 <h1 align="center">Hii <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Santript Mehta</h1>
+         width="45" />, I'm Santript</h1>
 <a href="https://twitter.com/santriptmehta">
   <img align="left" alt="Santript Mehta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
