@@ -53,7 +53,7 @@
 <p align="center">
 <!---<i><b><h2> GitHub Stats...📈  </b></i></h2>--->
 <img src="https://github-readme-stats.vercel.app/api?username=santriptmehta&count_private=true&show_icons=true&theme=radical" alt="GitHub Status" width="450px">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=santriptmehta&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="380px">
+<img src = "\" alt="Most Used Languages" width="380px">
 </p>
 
 [![Santript's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=santriptmehta&theme=radical)](https://git.io/santriptmehta)
