@@ -1,4 +1,4 @@
-         <h1 align="center">Hii <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hii <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Santript</h1>
@@ -55,7 +55,6 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santriptmehtak&" alt="GitHub Streak" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=santriptmehta&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Status" width="380px">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=santriptmehta&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" width="380px">
 </p>
